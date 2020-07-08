@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppBiodata</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
